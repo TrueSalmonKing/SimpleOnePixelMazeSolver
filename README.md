@@ -1,4 +1,4 @@
-# Project Title
+# Simple Maze Solver
 
 a java program capable of reading maze images and solving them, granted that the maze's borders are made out of a one pixel block  using djikstra's algorithm, we solve the maze through 3 basic steps
 
