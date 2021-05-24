@@ -30,4 +30,4 @@ JDK 12.0
 
 ## Note
 
-program not optimzed for large scale mazes.
+pprogram not optimzed for large scale mazes.
